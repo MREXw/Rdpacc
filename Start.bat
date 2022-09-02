@@ -18,6 +18,7 @@ tasklist | find /i "ngrok.exe" >Nul && curl -s localhost:4040/api/tunnels | jq -
 echo Username: administrator
 echo Password: mrex@1
 echo .
+echo  Join Our Group https://t.me/mrxhacking1
 echo  RDP has been created.
 echo  Please Login to Your RDP !
 ping -n 10 127.0.0.1 >nul
